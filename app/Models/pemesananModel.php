@@ -11,4 +11,9 @@ class pemesananModel extends Model
     const CREATED_AT = 'dt_created' ;
     const UPDATED_AT = 'dt_updated';
     use HasFactory;
+
+    public function pemesanan()
+    {
+        return $this->hasMany(Pemesanan::class);
+    }
 }
