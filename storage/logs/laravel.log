@@ -1,0 +1,12 @@
+[2023-05-13 03:16:26] local.ERROR: Cannot declare class Pesanan, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class Pesanan, because the name is already in use at C:\\Users\\User\\mobileprogramming\\api_hitrash\\database\\migrations\\2023_05_13_031311_pemesanan.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-13 03:17:46] local.ERROR: Cannot declare class Pesanan, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class Pesanan, because the name is already in use at C:\\Users\\User\\mobileprogramming\\api_hitrash\\database\\migrations\\2023_05_13_031311_pemesanan.php:7)
+[stacktrace]
+#0 {main}
+"} 
+[2023-05-13 03:18:23] local.ERROR: Cannot declare class Pesanan, because the name is already in use {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot declare class Pesanan, because the name is already in use at C:\\Users\\User\\mobileprogramming\\api_hitrash\\database\\migrations\\2023_05_13_031311_pemesanan.php:7)
+[stacktrace]
+#0 {main}
+"} 
